@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/brendon.jpg",
+    "character": "Brendon Small"
+  },
+    {
+      "id": 2,
+      "image": "assets/images/McGuirk.jpg",
+      "character": "Coach John McGurik"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/andrewsmall.jpg",
+      "character": "Andrew Small"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/dwayne.jpg",
+      "character": "Dwayne"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/FentonMulley.jpg",
+      "character": "Fenton"
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/jasonpenopolis.jpg",
+      "character": "Jason"
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/melissarobbins.jpg",
+      "character": "Melissa"
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/MrLynch.jpg",
+      "character": "Mr. Lynch"
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/paulasmall.jpg",
+      "character": "Paula Small"
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/perry.jpg",
+      "character": "Perry"
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/walter.jpg",
+      "character": "Walter"
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/shannon.jpg",
+      "character": "Shannon"
+    }
+  ]
