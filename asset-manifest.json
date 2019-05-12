@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HomeMoviesClickGame/static/css/main.e514c1a4.chunk.css",
+    "main.js": "/HomeMoviesClickGame/static/js/main.66e380b7.chunk.js",
+    "main.js.map": "/HomeMoviesClickGame/static/js/main.66e380b7.chunk.js.map",
+    "runtime~main.js": "/HomeMoviesClickGame/static/js/runtime~main.e98d9a8c.js",
+    "runtime~main.js.map": "/HomeMoviesClickGame/static/js/runtime~main.e98d9a8c.js.map",
+    "static/js/2.884c28c3.chunk.js": "/HomeMoviesClickGame/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/HomeMoviesClickGame/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/HomeMoviesClickGame/index.html",
+    "precache-manifest.50e4973a73a12a77a3122e05ae8ca47d.js": "/HomeMoviesClickGame/precache-manifest.50e4973a73a12a77a3122e05ae8ca47d.js",
+    "service-worker.js": "/HomeMoviesClickGame/service-worker.js",
+    "static/css/main.e514c1a4.chunk.css.map": "/HomeMoviesClickGame/static/css/main.e514c1a4.chunk.css.map"
+  }
+}
